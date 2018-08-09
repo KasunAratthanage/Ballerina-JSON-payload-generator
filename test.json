@@ -1,6 +1,4 @@
-
-   "Account_Details":{
-      "Bank_Account_No":"ACC001",
-      "Name":"Tom"
+"Account_Details":{
+      "Bank_Account_No":"${accountId}",
+      "Name":"Kasun"
    }
-    ,
